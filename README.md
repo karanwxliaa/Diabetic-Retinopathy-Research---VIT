@@ -2,7 +2,9 @@
 Research under the topic of Diabetic Retinopathy (segmentation/image processing/ CV)
 #### Compilation of literature and tools for the project:
 
-1. Implementing Binary and Multi-Class Classification of DR using Convolutional Neural Networks on Hard Exudates and Microaneursyms:                                  ^documentation: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5961805/# 
+1. Implementing Binary and Multi-Class Classification of DR using Convolutional Neural Networks on Hard Exudates and Microaneursyms:                                  
+ 
+   ^documentation: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5961805/# 
 
 2. Presentation of a Segmentation Method for Diabetic Retinopathy Patient's Fundus Region Detection Using Convolutional Neural Network:
 
