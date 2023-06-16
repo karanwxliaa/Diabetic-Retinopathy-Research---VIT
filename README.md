@@ -3,3 +3,6 @@ Research under the topic of Diabetic Retinopathy (segmentation/image processing/
 #### Compilation of literature and tools for the project:
 
 1. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5961805/# 
+
+1. Presentation of a Segmentation Method for Diabetic Retinopathy Patient's Fundus Region Detection Using Convolutional Neural Network:
+^documentation: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8331281/
