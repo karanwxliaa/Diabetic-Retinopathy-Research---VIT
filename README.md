@@ -17,3 +17,7 @@ Research under the topic of Diabetic Retinopathy (segmentation/image processing/
 4.  Blood Vessel Segmentation using Curvelet Transform, Morphological Thinning Operation and MultiLayered Thresholding:
 
     *documentation: https://www.ijsr.net/archive/v4i6/SUB155543.pdf
+
+5.  Segmentation and Classification of DR using Fuzzy-Means Clustering and Region Based Active Contour
+     
+    *documentation: https://iopscience.iop.org/article/10.1088/1742-6596/2325/1/012043/pdf
