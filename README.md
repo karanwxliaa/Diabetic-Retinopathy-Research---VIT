@@ -18,6 +18,6 @@ Research under the topic of Diabetic Retinopathy (segmentation/image processing/
 
     *documentation: https://www.ijsr.net/archive/v4i6/SUB155543.pdf
 
-5.  Segmentation and Classification of DR using Fuzzy-Means Clustering and Region Based Active Contour
+5.  Segmentation and Classification of DR using Fuzzy-Means Clustering and Region Based Active Contour:
      
     *documentation: https://iopscience.iop.org/article/10.1088/1742-6596/2325/1/012043/pdf
