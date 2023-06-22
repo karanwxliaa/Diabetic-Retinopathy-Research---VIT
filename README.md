@@ -21,3 +21,7 @@ Research under the topic of Diabetic Retinopathy (segmentation/image processing/
 5.  Segmentation and Classification of DR using Fuzzy-Means Clustering and Region Based Active Contour:
      
     *documentation: https://iopscience.iop.org/article/10.1088/1742-6596/2325/1/012043/pdf
+    
+6.  Segmentation of optic disc, fovea and retinal vasculature using a single convolutional neural network:
+
+   ^documentation: https://www.sciencedirect.com/science/article/abs/pii/S1877750317302028?via%3Dihub
