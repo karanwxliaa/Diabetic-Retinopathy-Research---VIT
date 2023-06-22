@@ -24,4 +24,4 @@ Research under the topic of Diabetic Retinopathy (segmentation/image processing/
     
 6.  Segmentation of optic disc, fovea and retinal vasculature using a single convolutional neural network:
 
-   ^documentation: https://www.sciencedirect.com/science/article/abs/pii/S1877750317302028?via%3Dihub
+    ^documentation: https://www.sciencedirect.com/science/article/abs/pii/S1877750317302028?via%3Dihub
