@@ -1,3 +1,21 @@
+## Criteria
+- After 2019 
+- Code availability (notebook tutorial, github)
+- Doesnt sound too complex
+
+**Eshaan**:
+> paper 1
+> paper2
+
+**Mihir**:
+> paper 1
+> paper2
+
+**Utkarsh**:
+> paper 1
+> paper2
+  
+
 # Diabetic-Retinopathy-Research---VIT
 Research under the topic of Diabetic Retinopathy (segmentation/image processing/ CV)
 #### Compilation of literature and tools for the project:
@@ -32,3 +50,4 @@ Research under the topic of Diabetic Retinopathy (segmentation/image processing/
 8. Development and validation of medical record-based logistic regression and machine learning models to diagnose diabetic retinopathy
 
    ^documentation: https://link.springer.com/article/10.1007/s00417-022-05854-9
+
