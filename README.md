@@ -28,3 +28,7 @@ Research under the topic of Diabetic Retinopathy (segmentation/image processing/
     
 7. Developments in the detection of diabetic retinopathy: a state-of-the-art review of computer-aided diagnosis and machine learning methods
    ^documentation: https://link.springer.com/article/10.1007/s10462-022-10185-6
+
+8. Development and validation of medical record-based logistic regression and machine learning models to diagnose diabetic retinopathy
+
+   ^documentation: https://link.springer.com/article/10.1007/s00417-022-05854-9
