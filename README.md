@@ -12,7 +12,9 @@
 > paper2
 
 **Utkarsh**:
-> paper 1
+> U-net based Hemorrhage semantic segmentation in fundus images for the diagnosis of diabetic retinopathy by using a convolutional neural network
+  *documentation: https://journalofbigdata.springeropen.com/articles/10.1186/s40537-022-00632-0#Sec7
+
 > paper2
   
 
